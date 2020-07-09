@@ -9,4 +9,4 @@
 - 🎓 &nbsp; I used to be an Angular guru, but these days I'm mostly working in the React ecosystem.
 - 📝 &nbsp; I've published a few articles, [you should check them out](https://dev.to/wescopeland).
 - 🕹 &nbsp; In a previous life, [I held the world record on Donkey Kong](https://arstechnica.com/gaming/2016/05/is-this-the-worlds-first-perfect-game-of-donkey-kong/).
-- 🏗 &nbsp; I'm building [Scoretrac.kr](https://github.com/wescopeland/scoretrackr), and I need help!
+- 🏗 &nbsp; I'm building [scoretrackr](https://github.com/wescopeland/scoretrackr), and I need help!
