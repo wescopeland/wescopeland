@@ -1,4 +1,4 @@
-<h3 align="center">🙋‍♂️  Hi there! I'm Wes Copeland.</h3>
+<h3 align="center">🙋‍♂️ &nbsp; Hi there! I'm Wes Copeland.</h3>
 <p align="center">
   <a href="https://twitter.com/wescopeland_">Twitter</a> •
   <a href="https://linkedin.com/in/wescopeland">LinkedIn</a>
