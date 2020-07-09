@@ -1,16 +1,12 @@
-### Hi there 👋
+<h3 align="center">🙋‍♂️  Hi there! I'm Wes Copeland.</h3>
+<p align="center">
+  <a href="https://twitter.com/wescopeland_">Twitter</a> •
+  <a href="https://linkedin.com/in/wescopeland">LinkedIn</a>
+</p>
 
-<!--
-**wescopeland/wescopeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻  &nbsp; I'm a web developer based in Boston, MA.
+- 🚀 &nbsp; I primarily do full-stack TypeScript work, and I'm passionate about DX and testing.
+- 🎓 &nbsp; I used to be an Angular guru, but these days I'm mostly working in the React ecosystem.
+- 📝 &nbsp; I've published a few articles, [you should check them out](https://dev.to/wescopeland).
+- 🕹 &nbsp; In a previous life, [I held the world record on Donkey Kong](https://arstechnica.com/gaming/2016/05/is-this-the-worlds-first-perfect-game-of-donkey-kong/).
+- 🏗 &nbsp; I'm building [Scoretrac.kr](https://github.com/wescopeland/scoretrackr), and I need help!
