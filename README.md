@@ -7,5 +7,6 @@
 
 - 👨🏻‍💻 &nbsp; I'm a web developer based in the Boston area.
 - 🚀 &nbsp; I primarily do full-stack TypeScript work, and I'm passionate about DX and testing.
-- 🎓 &nbsp; I've predominantly worked in the Angular and React ecosystems.
+- 🎓 &nbsp; I've predominantly worked in the React and Angular ecosystems.
 - 🕹 &nbsp; I'm known for [once holding the world record on Donkey Kong](https://arstechnica.com/gaming/2016/05/is-this-the-worlds-first-perfect-game-of-donkey-kong/).
+- 👾 &nbsp; I'm an admin and code maintainer at [RetroAchievements](https://retroachievements.org), a nonprofit dedicated to preservation, documentation, and enhancement of classic video games.
